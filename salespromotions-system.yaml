@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: system
+metadata:
+  name: salespromotions
+  description: Sales promotions System
+  tags:
+    - portal
+spec:
+  owner: user:dileep
+  domain: ecommerce
