@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: system
+kind: System
 metadata:
   name: salespromotions
   description: Sales promotions System
